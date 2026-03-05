@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Breeze Socialite Auth
 
 > Starter kit de autenticação Laravel com Breeze e Socialite, pronto para login social e gerenciamento de usuários.
