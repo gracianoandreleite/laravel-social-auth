@@ -34,7 +34,7 @@ O foco principal é fornecer um **esqueleto de autenticação completo**, permit
 - **TailwindCSS**
 - PHP 8.x
 
-## Instalação
+## Let's instail 🚀:
 
 1. Clone o repositório:
 
